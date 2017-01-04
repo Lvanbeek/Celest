@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "raidinfo.html",
     "name": "Celestial",
     "theme": {
       "name": "mobirise3",
@@ -5037,7 +5037,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"http://#\"><iframe src=\"http://www.warcraftlogs.com/guilds/recent_reports/89683/\">&lt;/A&gt;</iframe></a></p>"
+          "text": "<p><a href=\"http://#\"><iframe src=\"http://www.warcraftlogs.com/guilds/recent_reports/89683/\">&amp;amp;lt;/A&amp;amp;gt;</iframe></a></p>"
         },
         {
           "_styles": {
